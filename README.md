@@ -23,7 +23,9 @@ From the analysis, we determined the following differences in temperature betwee
 
 
 •	Maximum Temperature- June appear to have the highest recorded max temperature compared with December.
+
 •	 Minimum Temperature- December as the lowest recorded Min temperature when compared with June.
+
 •	Mean temperature- June has the highest recorded mean temperature.
 
 
