@@ -17,6 +17,10 @@ From the analysis, we determined the following differences in temperature betwee
 ![June_temp](https://user-images.githubusercontent.com/75961117/115972596-57c38c80-a51d-11eb-8799-ff5f677e553d.PNG)
 
 
+![Dec_temperature](https://user-images.githubusercontent.com/75961117/115972629-88a3c180-a51d-11eb-866c-c53ecb04e9a5.PNG)
+
+
+
 
 •	Maximum Temperature- June appear to have the highest recorded max temperature compared with December.
 •	 Minimum Temperature- December as the lowest recorded Min temperature when compared with June.
