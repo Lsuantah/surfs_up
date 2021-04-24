@@ -13,6 +13,11 @@ The purpose of the analysis to run month by month weather/temperature analysis t
 ## Results:
 
 From the analysis, we determined the following differences in temperature between June and December.
+
+![June_temp](https://user-images.githubusercontent.com/75961117/115972596-57c38c80-a51d-11eb-8799-ff5f677e553d.PNG)
+
+
+
 •	Maximum Temperature- June appear to have the highest recorded max temperature compared with December.
 •	 Minimum Temperature- December as the lowest recorded Min temperature when compared with June.
 •	Mean temperature- June has the highest recorded mean temperature.
